@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
-    <string name="ApplicationName">App1</string>
+    <string name="MissionWaterTower">Water Tower Inspection Mission</string>
+    <string name="MissionSwamp">Swamp Inspection Mission</string>
+    <string name="StartMission">Start Mission</string>
+    <string name="ApplicationName">Mission Keeper</string>
+    <string name="MapInitializing">Map Initializing</string>
+    <string name="WaitingTelemetry">Waiting For Telemetry</string>  
 </resources>
